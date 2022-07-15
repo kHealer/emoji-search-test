@@ -11,13 +11,13 @@ import 'web-vitals'
 import Header from "../Header"
 
 
-describe(`checkıngSıte`,() =>{
+describe("testingnsite",() =>{
 let input
 beforeEach(()=>{
 
 //     render(<App/>)
 //     render(<SearchInput/>)
-//  input =  screen.findByTestId("selami")
+//  input =  screen.findByTestId("")
 
 
 
